@@ -1,4 +1,4 @@
-# Accessibility Interop for WPT Interop 2024
+# Accessibility Testing for WPT Interop 2024
 
 Contributors from Apple, Mozilla, Igalia, Bocoup, Adobe, Hilton, Microsoft, Google, and many more individual web developers collaborated to kickstart a a continuous integration, interoperable, accessibility testing project in _**all major browsers**_. To date, this is the only known project that stands to _**improve the state of accessibility across the entire Web**_, regardless of which platform, browser, or assistive technology you may be using or testing. It's exciting work, and we made [a lot of progress in 2023](https://github.com/web-platform-tests/interop-accessibility/issues/3), but there is so much more to be done! Join us for Interop 2024!
 
