@@ -6,6 +6,9 @@ If you're interested in contributing or learning more, start by reviewing the [o
 
 See the growing list of [Accessibility Tests in WPT](https://wpt.fyi/results/?label=master&label=experimental&aligned&q=label%3Aaccessibility).
 
+## Running Tests and Contributing to Interop Accessibility Testing
+- [Accessibility Interop Project Overview and Contribution Guidelines](https://github.com/web-platform-tests/interop-accessibility/wiki/Accessibility-Interop-Project-Overview-and-Contribution-Guidelines)
+
 ## 2024
 
 - 2024 Focus Area https://github.com/web-platform-tests/interop/issues/526
