@@ -9,6 +9,10 @@ See the growing list of [Accessibility Tests in WPT](https://wpt.fyi/results/?la
 ## Running Tests and Contributing to Interop Accessibility Testing
 - [Accessibility Interop Project Overview and Contribution Guidelines](https://github.com/web-platform-tests/interop-accessibility/wiki/Accessibility-Interop-Project-Overview-and-Contribution-Guidelines)
 
+## 2026
+
+- 2026 Investigation https://github.com/web-platform-tests/interop/issues/202
+
 ## 2025
 
 - 2025 Investigation https://github.com/web-platform-tests/interop/issues/866
