@@ -17,7 +17,7 @@ See the growing list of [Accessibility Tests in WPT](https://wpt.fyi/results/?la
 
 - 2025 Investigation (Current) [#148](https://github.com/web-platform-tests/interop-accessibility/issues/148)
 
-Includes progress on architecture efforts to expand cross-browser accessibilty testing, both in the engines' internal accessibilty trees, as well as cross-engine testing of platform-specific API mappings.
+Includes progress on architecture efforts to expand cross-browser accessibility testing, both in the engines' internal accessibilty trees, as well as cross-engine testing of platform-specific API mappings.
 
 ## 2024
 
@@ -26,5 +26,5 @@ Includes progress on architecture efforts to expand cross-browser accessibilty t
 
 ## 2023
 
-We tracked the the now-complete Interop 2023 Investigation progress in [issue #3](https://github.com/web-platform-tests/interop-accessibility/issues/3). TLDR, we kickstarted the only known cross-platform, cross-engine accessibility testing CI framework and wrote well over 1000 [Accessibility Tests in WPT](https://wpt.fyi/results/?label=master&label=experimental&aligned&q=label%3Aaccessibility). 
+We tracked the now-complete Interop 2023 Investigation progress in [issue #3](https://github.com/web-platform-tests/interop-accessibility/issues/3). TLDR, we kickstarted the only known cross-platform, cross-engine accessibility testing CI framework and wrote well over 1000 [Accessibility Tests in WPT](https://wpt.fyi/results/?label=master&label=experimental&aligned&q=label%3Aaccessibility). 
 
