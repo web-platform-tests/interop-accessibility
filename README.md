@@ -9,13 +9,16 @@ See the growing list of [Accessibility Tests in WPT](https://wpt.fyi/results/?la
 ## Running Tests and Contributing to Interop Accessibility Testing
 - [Accessibility Interop Project Overview and Contribution Guidelines](https://github.com/web-platform-tests/interop-accessibility/wiki/Accessibility-Interop-Project-Overview-and-Contribution-Guidelines)
 
+## Meetings
+- [Upcoming and Past Meetings](https://github.com/web-platform-tests/interop-accessibility/issues?q=is%3Aissue%20Meeting)(Issue Search) 
+
 ## 2026
 
 - 2026 Investigation [#202](https://github.com/web-platform-tests/interop-accessibility/issues/202)
 
 ## 2025
 
-- 2025 Investigation (Current) [#148](https://github.com/web-platform-tests/interop-accessibility/issues/148)
+- 2025 Investigation [#148](https://github.com/web-platform-tests/interop-accessibility/issues/148)
 
 Includes progress on architecture efforts to expand cross-browser accessibility testing, both in the engines' internal accessibilty trees, as well as cross-engine testing of platform-specific API mappings.
 
